@@ -1,21 +1,20 @@
-body{
-    font-family: 'Abril Fatface', cursive;
-    font-family: 'Aclonica', sans-serif;
-    font-family: 'Bitter', serif;
-    font-family: 'Fredericka the Great', cursive;
+h1{
     font-family: 'IM Fell English SC', serif;
-    font-family: 'Skranji', cursive;
-    font-family: 'Titan One', cursive;
+    font-size: 60px;
+    font-weight: 900;
 }
-h1{font-size: 30px;
-    font-weight: 100;
+h2{
+    font-family: 'IM Fell English SC', serif;
 }
-h3{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 p{
-    font-size: 5px ;
-}
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px ;
+    font-weight: 100;
 }
 .orang{
     color: rgb(253, 109, 7);
+}
+section{
+    display: flex;
 }
