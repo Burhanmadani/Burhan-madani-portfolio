@@ -1,8 +1,15 @@
 body{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Fredericka the Great', cursive;
+    font-family: 'Skranji', cursive;
     font-family: 'Titan One', cursive;
 }
-h1{font-size: 40px;
+h1{font-size: 30px;
     font-weight: 100;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 .orang{
     color: rgb(253, 109, 7);
