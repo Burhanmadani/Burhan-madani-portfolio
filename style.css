@@ -1,6 +1,9 @@
 body{
     font-family: 'Abril Fatface', cursive;
+    font-family: 'Aclonica', sans-serif;
+    font-family: 'Bitter', serif;
     font-family: 'Fredericka the Great', cursive;
+    font-family: 'IM Fell English SC', serif;
     font-family: 'Skranji', cursive;
     font-family: 'Titan One', cursive;
 }
@@ -9,7 +12,9 @@ h1{font-size: 30px;
 }
 h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
+p{
+    font-size: 5px ;
+}
 }
 .orang{
     color: rgb(253, 109, 7);
