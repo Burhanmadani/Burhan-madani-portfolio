@@ -3,18 +3,41 @@ h1{
     font-size: 60px;
     font-weight: 900;
 }
+#h1{
+    font-size: 65px;
+}
 h2{
+    font-size: 30px;
     font-family: 'IM Fell English SC', serif;
 }
 
 p{
+    color: rgba(66, 63, 63, 0.849);
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px ;
+    font-size: 25px ;
     font-weight: 100;
+    line-height: 140%;
+    text-align: justify;
+    
 }
 .orang{
     color: rgb(253, 109, 7);
 }
 section{
-    display: flex;
+    display: flex ;
 }
+.half-width{ 
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 3%;
+}
+.half-width img{
+    width: 70%;
+}
+
+
+
+
+
+
+
