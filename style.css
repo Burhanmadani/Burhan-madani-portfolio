@@ -1,20 +1,22 @@
 h1{
     font-family: 'IM Fell English SC', serif;
-    font-size: 60px;
+    font-size: 64px;
     font-weight: 900;
 }
 #h1{
-    font-size: 65px;
+    font-size: 67px;
+    font-weight: 900;
 }
 h2{
-    font-size: 30px;
-    font-family: 'IM Fell English SC', serif;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
 }
 
 p{
     color: rgba(66, 63, 63, 0.849);
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 25px ;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px ;
     font-weight: 100;
     line-height: 140%;
     text-align: justify;
@@ -26,18 +28,14 @@ p{
 section{
     display: flex ;
 }
-#div1{ 
-    width: 60%;
-    padding-left: 5%;
-    padding-top: 3%;
+.half-w{ 
+    width: 50%;
+    padding-left: 7%;
+    margin: 60px 0;
 }
-#div2{
-    width: 40%;
-    padding-left: 5%;
-    padding-left: 3%;
-    margin: 0 auto ;
+.half-w img{
+    width: 90%;
 }
-
 
 
 
