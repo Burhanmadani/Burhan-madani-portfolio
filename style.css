@@ -5,13 +5,14 @@ h1{
     font-family: 'IM Fell English SC', serif;
     font-size: 54px;
     font-weight: 900;
+    text-shadow: 2px 2px 2px gray;
 }
 #h1{
     font-size: 55px;
     
 }
 h2{
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
     font-family: 'Poppins', sans-serif;}
 
@@ -19,18 +20,24 @@ h3{font-size: 20px;
     font-weight: 700;
     font-family: 'Poppins', sans-serif;
 }
-
 p{
     color: rgba(66, 63, 63, 0.849);
     font-family: 'Poppins', sans-serif;
     font-size: 16px ;
     font-weight: 100;
     line-height: 145%;
-
+    text-align: justify;
 }
 .orang{
     color: rgb(255, 115, 0);
+    text-shadow: 2px 2px 3px black;
 }
+.orange{
+    color: orange;
+    text-shadow: 1px 1px 2px black;
+}
+
+
 .flex-container{
     display: flex ;
     padding-bottom: 60px;
@@ -39,11 +46,8 @@ p{
     width: 50%;
     padding: 0 2%;
     margin-left: 2% ;
-    
 }
-.text-align{
-    text-align: justify;
-}
+
 .half-w img{
     width: 95%;
     padding-top: 50px;
@@ -71,8 +75,8 @@ p{
 }
 
 .exp-item{
-    width: 45%;
-    margin: 5%;
+    width: 40%;
+    margin: 5% ;
     padding: 15px 30px 20px;
     box-shadow: 10px 12px 40px black;
     border-radius: 20px;
