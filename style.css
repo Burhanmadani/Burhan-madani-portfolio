@@ -13,6 +13,10 @@ h1{
 h2{
     font-size: 22px;
     font-weight: 700;
+    font-family: 'Poppins', sans-serif;}
+
+h3{font-size: 20px;
+    font-weight: 700;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -29,7 +33,7 @@ p{
 }
 .flex-container{
     display: flex ;
-    padding-bottom: 10px;
+    padding-bottom: 60px;
 }
 .half-w{ 
     width: 50%;
@@ -64,6 +68,14 @@ p{
 }
 .sec3-h1{
     font-size: 40px;
+}
+
+.exp-item{
+    width: 45%;
+    margin: 5%;
+    padding: 15px 30px 20px;
+    box-shadow: 10px 12px 40px black;
+    border-radius: 20px;
 }
 
 
